@@ -1,0 +1,19 @@
+Git:
+
+git init - sozdani repozitria  v papke
+
+git add . - sohranenie
+
+git confing --global user.email ......
+
+git confing --global user.name ......
+
+get commit - komentiruvat izmenenia koda
+
+git clone - kloniruet iz GitHub(repozororii) v papku
+
+git status - proverka na novui fail
+
+git reflog - pokazuvaet vse komitu
+
+git push -u origin main -  na GitHub 
